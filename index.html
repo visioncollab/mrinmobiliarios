@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#4f46e5">
+    <title>Revisión de publicaciones</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="app">
+        <header class="header">
+            <p class="brand">Revisión de contenido</p>
+            <h1 id="clientName">Cargando...</h1>
+            <p id="weekDates"></p>
+            <div class="progress" aria-live="polite">
+                <span id="stepText">Publicación 1 de 4</span>
+                <div><i id="progressBar"></i></div>
+            </div>
+        </header>
+
+        <section id="content" aria-live="polite"></section>
+    </main>
+
+    <script src="data.js"></script>
+    <script src="config.js"></script>
+</body>
+</html>
