@@ -6,65 +6,72 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "986 590 866",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 13 al sábado 17 de octubre",
+    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 13 de octubre",
-            imagenes: ["img/13.jpg"],
-            copy: `💰 Comprar una propiedad exige planificar más allá de la cuota inicial.
+            diaSemana: "Martes 20 de octubre",
+            imagenes: ["img/20.jpg"],
+            copy: `🏡 ¿Encontraste el depa ideal? ¡Un segundo!
 
-Evita imprevistos financieros considerando estos costos clave:
+Antes de firmar, hazte estas 5 preguntas clave:
 
-📝 Impuesto de Alcabala: 3% del valor (exonerado en inmuebles de estreno).
-⚖️ Gastos notariales y registrales: Indispensables para asegurar tu titularidad.
-🏦 Gastos bancarios: Tasación y estudio de títulos.
+1️⃣ ¿Costos adicionales? Alcabala, notaría y mudanza.
+2️⃣ ¿Mantenimiento al mes? Cuota del edificio y servicios.
+3️⃣ ¿Qué incluye el precio? Cochera, depósito o equipamiento.
+4️⃣ ¿Papeles 100% en regla? Sin cargas ni sorpresas legales.
+5️⃣ ¿Encaja con tu vida real? Que te dé tranquilidad a largo plazo.
 
-💡 Una inversión estratégica proyecta el costo total, no solo el enganche.`
+Comprar informado es comprar con inteligencia. 💡`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 15 de octubre",
-            imagenes: ["img/15.jpg"],
-            copy: `📍 Exclusiva propiedad en doble esquina frente a la Plaza de Armas - Cieneguilla
-💰 USD 680,000 | 📐 1,108.7 m²
+            diaSemana: "Jueves 22 de octubre",
+            imagenes: ["img/22.jpg"],
+            copy: `📍 Terreno Comercial en Venta – Curva de Cieneguilla
+💰 USD 225,000
 
-Ubicación premium con máxima exposición. El espacio perfecto para posicionar tu marca o proyecto.
+📍 Ubicación estratégica: Sobre la avenida principal (conexión directa entre Cieneguilla, Manchay y La Molina). Zona de altísimo flujo vehicular y peatonal con gran visibilidad.
 
-✨ Características:
-✅ Imponente terreno en doble esquina.
-✅ Incluye una hermosa residencia de 230 m² en excelente estado.
-✅ Versatilidad total: ideal para sedes corporativas, proyectos comerciales de alta gama (restaurantes boutique, centros estéticos) o una exclusiva casa de campo urbana.`
+¿Qué te ofrece?
+
+✅ Área: 120 m².
+✅ Entorno consolidado: Rodeado de bancos, farmacias, restaurantes y paradero del Corredor.
+✅ Documentación: Constancia de Posesión y papeles al día.
+✨ Potencial: Ideal para proyecto comercial o mixto con excelente rentabilidad.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Viernes 16 de octubre",
-            imagenes: ["img/16.jpg"],
-            copy: `📍 Oportunidad de inversión: Terrenos estratégicos en Cieneguilla
-Donde otros ven un simple terreno, un buen inversionista ve rentabilidad.   
+            diaSemana: "Viernes 23 de octubre",
+            imagenes: ["img/23.jpg"],
+            copy: `📱 ¿Visitas una propiedad este fin de semana? ¡Prepárate antes de ir!
 
-✨ Características:
-✅ Áreas disponibles: Lotes urbanos de 90 m² y 184.50 m².
-✅ Ubicación clave: A solo media cuadra del Policlínico de Cieneguilla.
-✅ Máxima exposición: Ideal para desarrollar consultorios médicos, oficinas, negocios o proyectos de vivienda.`
+Una visita dura minutos, pero la decisión es importante. Haz este checklist previo:
+
+1️⃣ Define tus infaltables: Separa lo indispensable (ej. estacionamiento, ascensor) de lo opcional.
+2️⃣ Investiga la zona: Revisa accesos, seguridad y servicios cercanos para tu rutina.
+3️⃣ Prepara tus dudas: Mantenimiento, condiciones de venta/alquiler y antigüedad.
+💡 Tip extra: Anota tus impresiones apenas salgas; si ves varias opciones, los detalles se confunden rápido.
+
+Una compra inteligente empieza antes de cruzar la puerta. 🔑`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 17 de octubre",
-            imagenes: ["img/17.jpg"],
-            copy: `📍 Terreno de Ocasión en Cieneguilla
+            diaSemana: "Sábado 24 de octubre",
+            imagenes: ["img/24.jpg"],
+            copy: `🌳 Terreno en Condominio El Olivar – Cieneguilla   
+💰 USD 200,070
 
-💰 USD 410,000 | 📐 951.10 m²
+📍 Ubicación: Condominio El Olivar, Cieneguilla. Zona tranquila, rodeada de naturaleza y alejada del ruido.
 
-Ubicación estratégica en la Av. Bolívar, muy cerca de la avenida principal y a solo 3 cuadras del mercado de Cieneguilla. Una excelente oportunidad de inversión rodeada de un entorno comercial consolidado.
-
-✨ Características técnicas:
-✅ Parámetros: Altura máxima permitida de 5 pisos + azotea.
-✅ Exposición: Amplio frente de 25.70 ml hacia la avenida.
-✅ Listo para construir: Servicios 100% completos (agua potable, desagüe, electrificación, pistas y veredas).`
+¿Qué te ofrece?
+✅ Área: 1,530 m².
+✅ Legalidad: Título de propiedad.
+✅ Servicios: Servicios básicos y canal de regadillo.
+✨ Beneficios: Entorno arborizado con alto potencial de valorización.`
         }
     ]
 };
