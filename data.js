@@ -5,77 +5,92 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Contáctanos para mas información",
     whatsappPublicaciones: "986 590 866",
     whatsappDestino: "",
-    titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 27 al sábado 31 de octubre",
+    titulo: "Calendario Noviembre 2026",
+    rangoFechas: "Semana del martes 03 al sábado 07 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 27 de octubre",
-            imagenes: ["img/27.jpg"],
-            copy: `🎉 ¡Aceptaron tu oferta! ¿Y ahora qué sigue? 🏡
+            diaSemana: "Martes 3 de noviembre",
+            imagenes: ["img/3.jpg"],
+            copy: `🔑 Checklist rápido antes de mudarte 🏡✨
 
-Antes de celebrar, asegúrate de:
+Recibir las llaves es emocionante, pero revisa esto antes de llevar tus cosas:
 
-✅ Confirmar el precio, plazos y condiciones.
-✅ Verificar la documentación del inmueble.
-✅ Coordinar con el banco y la notaría, según corresponda.
-✅ Revisar todo antes de firmar o entregar dinero.
-✅ Dar seguimiento hasta concretar la compra.
+☑️ Cerraduras y accesos: Puertas, ventanas y llaves funcionando al 100%.
+☑️ Gas y agua: Grifos, desagües y presión sin fugas.
+☑️ Electricidad: Tomacorrientes y puntos de luz operativos.
+☑️ Servicios activos: Luz y agua habilitados a tu nombre o listos para usar.
+☑️ Documenta todo: Toma fotos o videos de cualquier detalle antes de firmar la entrega final.
+☑️ Administración: Reglas del edificio, cuota de mantenimiento y acceso a áreas comunes.
 
-💡 ¡Una oferta aceptada es un gran paso, pero aún no significa que seas propietario!
+Empezar con todo en orden te evita dolores de cabeza después. 🧠🔑
 
-📲 ¿Estás por comprar una vivienda? ¡Escríbenos y te asesoramos!`
+💬 ¿Qué es lo primero que revisas al entrar a un departamento nuevo?`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 29 de octubre",
-            imagenes: ["img/29.jpg"],
-            copy: `🌿 ¡TERRENO EN VENTA EN BOSQUES DEL MOLLE!
+            diaSemana: "Jueves 5 de noviembre",
+            imagenes: ["img/5.jpg"],
+            copy: `🏢 VENTA DE EDIFICIO COMERCIAL EN MANCHAY - AV. VÍCTOR MALÁSQUEZ
 
-📍 Condominio Bosques del Molle, frente a la laguna.
+💰 USD 395,000
 
-💰 Precio: USD 45,000
+Excelente oportunidad de inversión con alta exposición comercial e infraestructura sólida.
 
-✨ Características:
+📍 Ubicación estratégica: Frente a la Av. Principal Víctor Malásquez.
 
-✅ Área total: 250 m².
-✅ Terreno completamente plano.
-✅ Ubicación frente a la laguna.
-✅ Cerca de la Casa Club y del pórtico de ingreso.
-✅ Entorno natural y tranquilo.
-
-🏡 ¡Ideal para construir tu casa de descanso y disfrutar de la naturaleza!
+✨ Detalles clave:
+📐 Área de terreno: 160 m² | Área construida: 480 m².
+🏢 Distribución: 4 pisos + terraza.
+🏗️ Construcción: Estructura de concreto armado con escaleras interiores.
+🔑 Espacios: Ambientes amplios y adaptables para diversos giros comerciales.
+📜 Legal: Título de propiedad en regla.
 
 `
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 30 de octubre",
-            imagenes: ["img/30.jpg"],
-            copy: `🎃 ¡Los verdaderos sustos inmobiliarios no son fantasmas! 👻
+            diaSemana: "Viernes 6 de noviembre",
+            imagenes: ["img/6.jpg"],
+            copy: `🌳 VENTA DE TERRENO EN CIENEGUILLA - FRENTE A PLAZA DE ARMAS
 
-Antes de comprar una propiedad, cuidado con estas señales:
+💰 USD 680,000
 
-🚩 Precios que cambian sin explicación.
-🚩 Presión para entregar dinero de inmediato.
-🚩 Información poco clara.
-🚩 Gastos inesperados.
-🚩 Promesas que no quedan por escrito.
+Ubicación estratégica en doble esquina frente a la Plaza de Armas, ideal para desarrollo comercial o residencial.
 
-🏡 ¡Que el único susto sea el de Halloween!
+📍 Ubicación: Cieneguilla.
 
-🔍 Pregunta, verifica y revisa los documentos antes de comprar.
+✨ Detalles clave:
 
-💬 ¿Cuál de estas señales te haría desconfiar?`
+📐 Terreno: 1,108.7 m² (Frente 29.4 ml x Fondo 29.3 ml).
+🏗️ Construidos: 230 m².
+📊 Parámetros: 5 pisos + terraza.
+🏪 Zonificación: Comercial | Servicios básicos disponibles.
+📜 Legal: Documentación en regla.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 31 de octubre",
-            imagenes: ["img/31.jpg"],
-            copy: `🥁🇵🇪 ¡Nuestra música, nuestra historia, nuestro orgullo! Que nunca deje de sonar la canción criolla. ¡Feliz 31 de octubre! 
+            diaSemana: "Sábado 7 de noviembre",
+            imagenes: ["img/7.jpg"],
+            copy: `🌳 VENTA DE TERRENO EN CONDOMINIO BOSQUES DEL MOLLE
+
+💰 USD 45,000
+
+Construye tu casa de campo en un entorno exclusivo, tranquilo y rodeado de naturaleza.
+
+📍 Ubicación: Condominio Bosques del Molle.
+
+✨ Detalles clave:
+
+📐 Área: 250 m².
+📊 Parámetros: Hasta 2 pisos.
+💡 Servicios: Básicos completos.
+🎾 Amenities: Cancha de tenis y frontón + áreas verdes con más de 100 árboles.
+🚗 Infraestructura: Pistas compactadas.
+📜 Legal: Documentos en regla. 
 `
         }
     ]
