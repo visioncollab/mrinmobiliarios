@@ -6,91 +6,75 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "986 590 866",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 03 al sábado 07 de noviembre",
+    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 3 de noviembre",
-            imagenes: ["img/3.jpg"],
-            copy: `🔑 Checklist rápido antes de mudarte 🏡✨
+            diaSemana: "Martes 10 de noviembre",
+            imagenes: ["img/10.jpg"],
+            copy: `🔑 ¿VAS A ALQUILAR? ¡NO ENTREGUES LAS LLAVES SIN ESTO!
 
-Recibir las llaves es emocionante, pero revisa esto antes de llevar tus cosas:
+Antes de entregar tu propiedad, prepara un inventario detallado de su estado.
 
-☑️ Cerraduras y accesos: Puertas, ventanas y llaves funcionando al 100%.
-☑️ Gas y agua: Grifos, desagües y presión sin fugas.
-☑️ Electricidad: Tomacorrientes y puntos de luz operativos.
-☑️ Servicios activos: Luz y agua habilitados a tu nombre o listos para usar.
-☑️ Documenta todo: Toma fotos o videos de cualquier detalle antes de firmar la entrega final.
-☑️ Administración: Reglas del edificio, cuota de mantenimiento y acceso a áreas comunes.
-
-Empezar con todo en orden te evita dolores de cabeza después. 🧠🔑
-
-💬 ¿Qué es lo primero que revisas al entrar a un departamento nuevo?`
+📸 Toma fotografías de los ambientes, muebles y equipos.
+🔍 Registra instalaciones, medidores y cualquier desperfecto existente.
+📝 Deja constancia por escrito y asegúrate de que ambas partes estén de acuerdo.
+🏡 Un inventario bien hecho evita malentendidos y protege tanto al propietario como al inquilino.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 5 de noviembre",
-            imagenes: ["img/5.jpg"],
-            copy: `🏢 VENTA DE EDIFICIO COMERCIAL EN MANCHAY - AV. VÍCTOR MALÁSQUEZ
+            diaSemana: "Jueves 12 de noviembre",
+            imagenes: ["img/12.jpg"],
+            copy: `📍 ¿Buscas un terreno con buena ubicación y proyección en Manchay?
 
-💰 USD 395,000
+Te mostramos cómo llegar a este terreno urbano de 251 m², ubicado en Av. Los Naranjos, a solo 4 cuadras del futuro Hospital Papa Francisco II.
 
-Excelente oportunidad de inversión con alta exposición comercial e infraestructura sólida.
+✅ Doble esquina
+✅ Todos los servicios básicos
+✅ Zona urbana consolidada
+✅ Ideal para vivienda o proyecto de inversión
+💰 Precio: USD 75,000
 
-📍 Ubicación estratégica: Frente a la Av. Principal Víctor Malásquez.
-
-✨ Detalles clave:
-📐 Área de terreno: 160 m² | Área construida: 480 m².
-🏢 Distribución: 4 pisos + terraza.
-🏗️ Construcción: Estructura de concreto armado con escaleras interiores.
-🔑 Espacios: Ambientes amplios y adaptables para diversos giros comerciales.
-📜 Legal: Título de propiedad en regla.
+Acompáñanos en el recorrido y conoce lo cerca que está de una de las zonas con mayor proyección de Manchay.
 
 `
         },
 
         {
-            tipo: "video",
-            diaSemana: "Viernes 6 de noviembre",
-            imagenes: ["img/6.jpg"],
-            copy: `🌳 VENTA DE TERRENO EN CIENEGUILLA - FRENTE A PLAZA DE ARMAS
+            tipo: "imagen",
+            diaSemana: "Viernes 13 de noviembre",
+            imagenes: ["img/13.jpg"],
+            copy: `🏢 ¿ESTRENAS DEPA? ¡CONOCE LAS REGLAS DEL EDIFICIO!
 
-💰 USD 680,000
+Comprar un departamento también significa formar parte de una comunidad.
 
-Ubicación estratégica en doble esquina frente a la Plaza de Armas, ideal para desarrollo comercial o residencial.
+🔑 Antes de mudarte, revisa:
 
-📍 Ubicación: Cieneguilla.
+✅ Horarios permitidos para mudanzas.
+✅ Uso de áreas comunes.
+✅ Cuotas de mantenimiento.
+✅ Normas de convivencia y restricciones.
 
-✨ Detalles clave:
-
-📐 Terreno: 1,108.7 m² (Frente 29.4 ml x Fondo 29.3 ml).
-🏗️ Construidos: 230 m².
-📊 Parámetros: 5 pisos + terraza.
-🏪 Zonificación: Comercial | Servicios básicos disponibles.
-📜 Legal: Documentación en regla.`
+💡 TIP: Solicita el reglamento interno y conoce los acuerdos de la junta de propietarios.`
         },
 
         {
-            tipo: "imagen",
-            diaSemana: "Sábado 7 de noviembre",
-            imagenes: ["img/7.jpg"],
-            copy: `🌳 VENTA DE TERRENO EN CONDOMINIO BOSQUES DEL MOLLE
+            tipo: "video",
+            diaSemana: "Sábado 14 de noviembre",
+            imagenes: ["img/14.jpg"],
+            copy: `✨ NUEVO INGRESO EN ASIA
 
-💰 USD 45,000
+Una casa para disfrutar el mar, la tranquilidad y esos días que quisieras que no terminen.
 
-Construye tu casa de campo en un entorno exclusivo, tranquilo y rodeado de naturaleza.
+🏡 220 m²
+📍 Condominio Las Terrazas – Balneario Asia
+🌊 Excelente ubicación para disfrutar la temporada o todo el año
+💰 S/ 350,000
 
-📍 Ubicación: Condominio Bosques del Molle.
+Tu próxima casa de playa puede estar aquí.
 
-✨ Detalles clave:
-
-📐 Área: 250 m².
-📊 Parámetros: Hasta 2 pisos.
-💡 Servicios: Básicos completos.
-🎾 Amenities: Cancha de tenis y frontón + áreas verdes con más de 100 árboles.
-🚗 Infraestructura: Pistas compactadas.
-📜 Legal: Documentos en regla. 
+📲 Escríbenos para más información o para coordinar una visita. 
 `
         }
     ]
